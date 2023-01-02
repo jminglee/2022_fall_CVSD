@@ -4,3 +4,5 @@ Computer-aided VLSI System Design, EEE5022
 * HW2: MIPS design
 * HW3: Convolution Engine
 * HW4: IOT Data Filtering
+* HW5: APR
+* Final Project: Polar Decoder
